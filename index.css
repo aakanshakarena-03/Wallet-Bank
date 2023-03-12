@@ -1,0 +1,410 @@
+
+ 
+  .orange{
+    background-color: orangered;
+    height:700px;
+    width:60%;
+    position: absolute;
+    top:0;
+    left:40%;
+    border-radius: 20px 0px 0px 20px;
+}
+#img1{
+    width:300px;
+    height: 600px;
+    position: absolute;
+    top:50px;
+    left:450px;
+    
+}
+h1{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top:60px;
+    left:200px;
+    font-family: 'Oswald', sans-serif;
+}
+ul{
+    color:white;
+    font-size: 30px;
+    position: absolute;
+    top:400px;
+    left:200px;
+    font-family: 'Oswald', sans-serif;
+}
+#download{
+    font-size:20px ;
+    height: 35px;
+    width: 175px;
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    padding:5px 30px;
+    position: absolute;
+    top:575px;
+    left:200px;
+    font-family: 'Oswald', sans-serif;
+}
+#leftpane{
+    font-size:40px ;    
+    position: absolute;
+    top: 200px;
+    left:100px;
+    font-family: 'Oswald', sans-serif;
+
+}
+#p2h{
+    font-size:50px;
+    position: absolute;
+    top:750px;
+    left:0;
+    height: 50px;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+    padding:10px 35%;
+
+}
+span{
+    color:orangered;
+}
+#features{
+    height:300px;
+    width:90%;
+    background-color: rgb(128, 195, 221);
+    position: absolute;
+    top:1000px;
+    left:5%;
+    float: left;
+}
+#logo1{
+    border-radius: 100%;
+    height: 150px;
+    width:150px;
+}
+#logo2{
+    border-radius: 100%;
+    height: 150px;
+    width:150px;
+}
+#logo3{
+    border-radius: 100%;
+    height:165px;
+    width:165px;
+}
+#support{
+    position:absolute;
+    top:35px;
+    left:150px;
+}
+#security{
+    position:absolute;
+    top:35px;
+    left:575px; 
+}
+#digital{
+    position:absolute;
+    top:35px;
+    left:1000px; 
+}
+h3{
+    font-family: 'Oswald', sans-serif;   
+}
+.side{
+   position:absolute;
+   top:170px;
+   left:25px;
+}
+#p3left{
+    position: absolute;
+    top:1400px;
+    left:100px;
+    width: 40%;
+}
+#lefttext{
+    margin:0;
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif;   
+}
+#lorem{
+    font-size: 18px ;
+    font-family: 'Oswald', sans-serif;   
+}
+#rightpanep3{
+    background-color: orangered;
+    height: 450px;
+    width: 450px;
+    border-radius: 100%;
+    position: absolute;
+    top:1400px;
+    left:55%;
+}
+#rotatephone{
+    width:300px;
+    height: 600px;
+    position: absolute;
+    transform: rotate(-30deg);
+    top:-100px;
+    left:100px;
+}
+h4{
+  color: black; 
+  font-family: 'Oswald', sans-serif; 
+}
+#emp{
+    height: 400px;
+    width:40%;
+    position: absolute;
+    top:1900px;
+    left:6%;
+    border-radius: 10px 10px 10px 10px;
+}
+#rightpanep3p2{
+    position: absolute;
+    top:1950px;
+    left:50%;
+    width: 40%;
+}
+#p4p1{
+    width:100%;
+    height:700px;
+    background-color: rgb(128, 195, 221);
+    position: absolute;
+    top:2375px;
+    left:0px;
+}
+.p4{
+    position: absolute;
+    top:30px;
+    left:30%;
+}
+.lorem{
+    position: absolute;
+    top:200px;
+    left:5%; 
+    width:90%;
+    font-family: 'Oswald', sans-serif;
+}
+.logos{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}
+#logos1{
+    position: absolute;
+    top:2650px;
+    left:400px;
+}
+#logos2{
+    position: absolute;
+    top:2650px;
+    left:600px;
+}
+#logos3{
+    position: absolute;
+    top:2650px;
+    left:800px;
+}
+#logos4{
+    position: absolute;
+    top:2650px;
+    left:1000px;
+}
+#logos5{
+    position: absolute;
+    top:2850px;
+    left:500px;
+}
+#logos6{
+    position: absolute;
+    top:2850px;
+    left:700px;
+}
+#logos7{
+    position: absolute;
+    top:2850px;
+    left:900px;
+}
+#water{
+    position: absolute;
+    top:2750px;
+    left:425px;
+    font-family: 'Oswald', sans-serif;
+}
+#electricity{
+    position: absolute;
+    top:2750px;
+    left:610px;
+    font-family: 'Oswald', sans-serif;
+}
+#gas{
+    position: absolute;
+    top:2750px;
+    left:835px;
+    font-family: 'Oswald', sans-serif;
+}
+#shopping{
+    position: absolute;
+    top:2750px;
+    left:1010px;
+    font-family: 'Oswald', sans-serif;
+}
+#bill{
+    position: absolute;
+    top:2950px;
+    left:525px;
+    font-family: 'Oswald', sans-serif;
+}
+#phone{
+    position: absolute;
+    top:2950px;
+    left:725px;
+    font-family: 'Oswald', sans-serif;
+}
+#credit{
+    position: absolute;
+    top:2950px;
+    left:900px;
+    font-family: 'Oswald', sans-serif;
+}
+#p5{
+    width: 50%;
+}
+#p5p1{
+    position: absolute;
+    top:3150px;
+    left:5%;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+#loremp5{
+    position: absolute;
+    top:3350px;
+    left:5%;
+    width: 50%; 
+    font-family: 'Oswald', sans-serif;
+}
+#p5right{
+    width:300px;
+    height: 600px;
+    position: absolute;
+    top:3100px;
+    left:65%;
+}
+#down{
+    position: absolute;
+    top:3450px;
+    left:5%;
+}
+#qrcode{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top:3520px;
+    left:5%;
+}
+#circle{
+    height: 50px;
+    width:15%;
+    position: absolute;
+    top:3550px;
+    left:20%;
+    background-color: black;
+    border-radius: 10px;
+}
+#triangle{
+    height: 50px;
+    width:15%;
+    position: absolute;
+    top:3625px;
+    left:20%;
+    background-color: black;
+    border-radius: 10px;
+}
+#cir{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top:-10px;
+    left:20%;
+    font-family: 'Oswald', sans-serif;
+}
+#tri{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top:-10px;
+    left:20%;
+    font-family: 'Oswald', sans-serif;
+}
+#p6{
+    height:350px;
+    width:90%;
+    background-color: rgb(128, 195, 221);
+    position: absolute;
+    top:3800px;
+    left:5%;
+    border-radius: 10px;
+}
+#walletlogo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    position: absolute;
+    left:5%;
+    top:10%;
+}
+.textt{
+    background-color: black;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left :10%;
+    font-size: 30px; 
+}
+#the{
+    top:40px;
+}
+#wallet{
+    top:90px;
+}
+#bank{
+    top:140px;
+}
+.call{
+    background-color: orangered;
+    color: white;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 5%;
+    top:225px;
+}
+.no{
+    background-color: orangered;
+    color: white;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    left: 5%;
+    top:275px;
+}
+#footer{
+    color: black;
+    font-size: 20px;
+    list-style-type:none ;
+    position: absolute;
+    top:20px;
+    left:60%;
+    
+}
+ul li{
+    float: left;
+    padding:5px 20px;
+}
+#lastline{
+    position: absolute;
+    top:300px;
+    left:40%;
+    font-family: 'Oswald', sans-serif;
+}
